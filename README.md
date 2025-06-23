@@ -95,13 +95,13 @@
 
 <div align="center">
   <a href="https://github.com/ShawonMondol-Shibu">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=shibu72&show_icons=true&theme=dark" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=ShawonMondol-Shibu&show_icons=true&theme=dark" />
   </a>
   <a href="https://github.com/ShawonMondol-Shibu">
-    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=shibu72&theme=dark" />
+    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ShawonMondol-Shibu&theme=dark" />
   </a>
   <a href="https://github.com/ShawonMondol-Shibu">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibu72&layout=compact&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShawonMondol-Shibu&layout=compact&theme=dark" />
   </a>
 </div>
 
