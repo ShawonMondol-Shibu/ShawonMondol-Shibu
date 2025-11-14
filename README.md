@@ -37,6 +37,7 @@
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
         <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js"/>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+        <img src="https://img.shields.io/badge/Nest.js-47A248?style=flat&logo=nestjs&logoColor=white" alt="Nest.js"/>
       </td>
       <!-- 🎨 OS & Design -->
       <td valign="top" align="center" style="padding: 0 10px;">
