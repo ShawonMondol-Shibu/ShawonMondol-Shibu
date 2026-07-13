@@ -53,7 +53,7 @@
 
 <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=shawonmondol-shibu&theme=radical" height="130" />
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shawonmondol-shibu&layout=compact&theme=radical" height="130" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shawonmondol-shibu&layout=full&theme=radical" height="130" />
 
 </div>
 
