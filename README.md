@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="shawonmondol-shibu's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Shawon+Mondol;FullStack+Developer;System+Design+Enthusiast" alt="Typing SVG" />
 </h1>
