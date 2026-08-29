@@ -8,13 +8,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Shawon+Mondol;FullStack+Developer;System+Design+Enthusiast" alt="Typing SVG" />
 </h1>
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=shawonmondol-shibu&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/shawonmondol-shibu?style=for-the-badge&color=238636&label=FOLLOWERS" alt="Followers" />
 <img src="https://img.shields.io/github/stars/shawonmondol-shibu?style=for-the-badge&color=E3B341&label=STARS" alt="Stars" />
 
-</div>
+</div> -->
 
 <br/>
 
@@ -50,7 +50,8 @@
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
 
-
- <img src="https://github-readme-stats-fast.vercel.app/api?username=shawonmondol-shibu&show_icons=true&theme=radical" height="125" alt="GitHub Stats" /> <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=shawonmondol-shibu&theme=radical" height="125" alt="GitHub Streak" /> <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shawonmondol-shibu&layout=compact&theme=radical" height="125" alt="Top Languages" /> 
+| GitHub Stats | GitHub Streak | Top Languages |
+| :---: | :---: | :---: |
+| <img src="https://github-readme-stats-fast.vercel.app/api?username=shawonmondol-shibu&show_icons=true&theme=radical" height="125" alt="GitHub Stats" /> | <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=shawonmondol-shibu&theme=radical" height="125" alt="GitHub Streak" /> | <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shawonmondol-shibu&layout=compact&theme=radical" height="125" alt="Top Languages" /> |
 
 </div>
