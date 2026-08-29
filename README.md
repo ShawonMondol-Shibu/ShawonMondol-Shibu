@@ -49,7 +49,7 @@
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<div align="start">
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=shawonmondol-shibu&show_icons=true&theme=radical" height="125" />
 
