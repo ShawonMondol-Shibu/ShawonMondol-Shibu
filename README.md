@@ -22,8 +22,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=8B949E&center=true&vCenter=true&width=700&lines=Engineering+high-performance+web+applications;Building+scalable,+type-safe,+architecturally+clean+products;Open+for+freelance+contracts+%26+technical+consulting" alt="Tagline" />
 </p>
 
----
-
 <!--# 👨‍💻 About Me
 
 <div align="center">
@@ -40,8 +38,6 @@
 
 <br/> -->
 
----
-
 # 🛠️ Tech Stack
 
 <div align="center">
@@ -49,7 +45,7 @@
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,nextjs,tailwindcss,expressjs,nestjs,mongodb,postgresql,postman,linux,python,git&theme=dark&perline=15)](https://skillicons.dev)
 </div>
 
----
+
 
 # 📊 GitHub Analytics
 
@@ -63,7 +59,6 @@
 
 </div>
 
----
 
 # 🤝 Connect With Me
 
@@ -86,10 +81,7 @@
 </a>
 
 </div>
-
----
-
-# 🐍 Contribution Graph
+<!--- # 🐍 Contribution Graph
 
 <div align="center">
 
@@ -97,7 +89,7 @@
 
 </div>
 
----
+--->
 
 <div align="center">
 
