@@ -47,12 +47,14 @@
 
 
 
-# 📊 GitHub Analytics 
-
-<div align="center"> 
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=shawonmondol-shibu&show_icons=true&theme=radical" height="125" alt="GitHub Stats" /> 
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=shawonmondol-shibu&theme=radical" height="125" alt="GitHub Streak" /> 
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shawonmondol-shibu&layout=compact&theme=radical" height="125" alt="Top Languages" /> 
+<div align="center">
+  <h2>📊 GitHub Analytics</h2>
+  
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=shawonmondol-shibu&show_icons=true&theme=radical" height="125" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=shawonmondol-shibu&theme=radical" height="125" alt="GitHub Streak" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shawonmondol-shibu&layout=compact&theme=radical" height="125" alt="Top Languages" />
+  </div>
 </div>
 
 
