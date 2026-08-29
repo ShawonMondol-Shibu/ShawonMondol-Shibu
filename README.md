@@ -51,11 +51,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=shawonmondol-shibu&show_icons=true&theme=radical" height="130" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=shawonmondol-shibu&show_icons=true&theme=radical" height="125" />
 
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=shawonmondol-shibu&theme=radical" height="130" />
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=shawonmondol-shibu&theme=radical" height="125" />
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shawonmondol-shibu&layout=compact&theme=radical" height="130" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shawonmondol-shibu&layout=compact&theme=radical" height="125" />
 
 </div>
 
@@ -81,15 +81,7 @@
 </a>
 
 </div>
-<!--- # 🐍 Contribution Graph
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
-
-</div>
-
---->
 
 <div align="center">
 
