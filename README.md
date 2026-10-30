@@ -12,12 +12,32 @@ Building modern web applications and exploring AI-powered products.
 
 ## About
 
-- Full-stack development with the **TypeScript ecosystem**
-- Frontend with **React / Next.js**
-- Backend with **NestJS / Node.js**
-- **PostgreSQL / Supabase / Drizzle / Better Auth**
-- Exploring **LLM integration, AI SDKs, RAG, and AI-powered applications**
-- Interested in **backend architecture, system design, and scalable products**
+<table>
+  <tr>
+    <td width="42"><img src="https://api.iconify.design/lucide/code-2.svg?color=%234F46E5" width="24" /></td>
+    <td>Full-stack development with the <strong>TypeScript ecosystem</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://api.iconify.design/lucide/panels-top-left.svg?color=%234F46E5" width="24" /></td>
+    <td>Building interfaces with <strong>React and Next.js</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://api.iconify.design/lucide/server.svg?color=%234F46E5" width="24" /></td>
+    <td>Developing APIs with <strong>NestJS and Node.js</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://api.iconify.design/lucide/database.svg?color=%234F46E5" width="24" /></td>
+    <td>Working with <strong>PostgreSQL, Supabase, Drizzle, and Better Auth</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://api.iconify.design/lucide/sparkles.svg?color=%234F46E5" width="24" /></td>
+    <td>Exploring <strong>LLM integration, AI SDKs, RAG, and AI-powered applications</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://api.iconify.design/lucide/network.svg?color=%234F46E5" width="24" /></td>
+    <td>Interested in <strong>backend architecture, system design, and scalable products</strong></td>
+  </tr>
+</table>
 
 ## Tech
 
@@ -25,17 +45,11 @@ Building modern web applications and exploring AI-powered products.
   <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,nestjs,postgresql,supabase,tailwind,git,github,vercel,vscode" alt="Technology icons" />
 </p>
 
-## Focus
-
-**Full Stack → Backend Engineering → AI Applications**
-
-Currently learning deeper backend architecture, database design, system design, and practical AI integration.
-
-## Connect
+## GitHub Activity
 
 <p align="center">
   <a href="https://github.com/ShawonMondol-Shibu">
-    <img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShawonMondol-Shibu&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" width="100%" />
   </a>
 </p>
 
