@@ -1,152 +1,196 @@
-<div align="center">
+# Hi, I'm Shawon Mondol Shibu 👋
 
-<img src="https://www.gitskins.com/api/readme-reference/hero?username=shawonmondol-shibu&theme=neon&role=Frontend%20or%20full-stack%20engineer&location=Netrakona%2C%20Mymenshing%2C%20Bangladesh&v=readme-reference-2" width="100%" alt="Shawon Mondol Shibu profile banner" />
+### Full Stack Developer · TypeScript · Next.js · NestJS
 
-<br/>
+I build modern, production-oriented web applications with **TypeScript**, working across frontend, backend, databases, authentication, and APIs. I enjoy turning ideas into clean, maintainable products and I’m currently expanding into **AI-powered application development and backend architecture**.
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Frontend%20or%20full-stack%20engineer;Full%20Stack%20AI%20Engineer;Building%20with%20PHP%20%C2%B7%20TypeScript%20%C2%B7%20Vue;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
-
-<br/>
-
-<a href="https://shawon-mondol-shibu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Portfolio" /></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Profile_views-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Profile views" /> <img src="https://img.shields.io/badge/7_followers-00FFA3?style=for-the-badge&amp;labelColor=0d1117" alt="7 followers" />
-
-</div>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=shawonmondol-shibu&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-## ⚡ whoami
-
-```typescript
-const shawonmondol_shibu: Developer = {
-  name:      "Shawon Mondol Shibu",
-  role:      "Frontend or full-stack engineer",
-  location:  "Netrakona, Mymenshing, Bangladesh",
-  currently: "building in public",
-  stack:     ["PHP", "TypeScript", "Vue", "CSS", "JavaScript", "Blade"],
-  mantra:    "Make useful things, then make them delightful 🚀",
-};
-```
-
-> Full Stack AI Engineer
-> 
-> **Collaborations welcome when they are meaningful 🤝**
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=shawonmondol-shibu&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-## ⚔️ Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=php%2Ctypescript%2Cvue%2Ccss%2Cjavascript%2Crust%2Cbash&perline=8&theme=dark" alt="Tech stack" />
-
-<br/><br/>
-
-**🧠 AI / ML &nbsp;·&nbsp; ⚙️ Automation**
-
-<img src="https://img.shields.io/badge/PHP-4F5D95?style=for-the-badge&amp;labelColor=0d1117" alt="PHP" /> <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&amp;labelColor=0d1117" alt="TypeScript" /> <img src="https://img.shields.io/badge/Vue-41b883?style=for-the-badge&amp;labelColor=0d1117" alt="Vue" /> <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&amp;labelColor=0d1117" alt="CSS" /> <img src="https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&amp;labelColor=0d1117" alt="JavaScript" /> <img src="https://img.shields.io/badge/Blade-f7523f?style=for-the-badge&amp;labelColor=0d1117" alt="Blade" /> <img src="https://img.shields.io/badge/Rust-dea584?style=for-the-badge&amp;labelColor=0d1117" alt="Rust" /> <img src="https://img.shields.io/badge/Shell-89e051?style=for-the-badge&amp;labelColor=0d1117" alt="Shell" />
-
-</div>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=shawonmondol-shibu&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-## 🌌 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Stack_Forge**
-
-A featured build from this profile.
-
-`TypeScript` · `0 stars`
-
-<a href="https://github.com/ShawonMondol-Shibu/Stack_Forge"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-**Stack_Forge-Backend**
-
-A featured build from this profile.
-
-`TypeScript` · `0 stars`
-
-<a href="https://github.com/ShawonMondol-Shibu/Stack_Forge-Backend"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Canev**
-
-A featured build from this profile.
-
-`TypeScript` · `0 stars`
-
-<a href="https://github.com/ShawonMondol-Shibu/Canev"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-**ai-chat-app**
-
-A featured build from this profile.
-
-`TypeScript` · `0 stars`
-
-<a href="https://github.com/ShawonMondol-Shibu/ai-chat-app"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&amp;labelColor=0d1117" alt="Code" /></a>
-
-</td>
-</tr>
-</table>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=shawonmondol-shibu&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://www.gitskins.com/api/section/stats?username=shawonmondol-shibu&theme=neon&v=neon-circuit-stats-1" width="100%" alt="GitHub stats" />
-
-<br/>
-
-<img src="https://www.gitskins.com/api/section/heatmap?username=shawonmondol-shibu&theme=neon&style=aura" width="100%" alt="Contribution activity" />
-
-</div>
-
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=shawonmondol-shibu&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=shawonmondol-shibu&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F217555983%3Fu%3D4bf6be42d46b78f85bef78312d9e41b42fec82a4%26v%3D4" alt="shawonmondol-shibu heatmap visual" />
+<p align="left">
+  <a href="https://github.com/ShawonMondol-Shibu">
+    <img src="https://img.shields.io/badge/GitHub-ShawonMondol--Shibu-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://github.com/ShawonMondol-Shibu?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github" alt="Repositories" />
+  </a>
 </p>
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=shawonmondol-shibu&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+---
 
-## 🏆 Beyond the Code
+## 👨‍💻 About Me
 
-* 🧠 **Profile signal:** 529 contributions in the last year
-* 🚀 **Builder energy:** 39 public repositories
-* ⭐ **Community signal:** 0 stars across featured work
-* 🗣️ **Open to:** interesting collaborations and useful products
+- 💻 Full-stack developer focused on the **TypeScript ecosystem**
+- ⚛️ Building interfaces with **React and Next.js**
+- 🏗️ Building APIs and backend systems with **NestJS and Node.js**
+- 🗄️ Working with **PostgreSQL, Supabase, Drizzle ORM, and Better Auth**
+- 🤖 Exploring **AI integration, LLM-powered features, AI SDKs, and intelligent web applications**
+- 🧠 Currently improving **system design, backend architecture, database design, and scalable application patterns**
+- 🚀 I prefer building real products over collecting tutorials
 
-<div align="center"><img src="https://www.gitskins.com/api/readme-reference/divider?username=shawonmondol-shibu&theme=neon&v=readme-reference-2" width="100%" alt="Section divider" /></div>
+---
 
-<div align="center">
+## 🛠️ Tech Stack
 
-## 🤝 Let's Build Something Meaningful
+### Frontend
 
-I build useful software and enjoy turning ambitious ideas into working products.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" alt="Frontend technologies" />
+</p>
 
-<a href="https://shawon-mondol-shibu.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7B5CFF?style=for-the-badge&amp;labelColor=0d1117" alt="Portfolio" /></a>
+**React · Next.js · TypeScript · JavaScript · Tailwind CSS · shadcn/ui · TanStack Query**
 
-<br/><br/>
+### Backend
 
-***⭐ From [Shawon Mondol Shibu](https://github.com/shawonmondol-shibu) · built with code, AI & a little chaos 😈***
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,typescript" alt="Backend technologies" />
+</p>
 
-</div>
+**Node.js · NestJS · TypeScript · REST APIs · Better Auth**
+
+### Database & Data Layer
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgresql,supabase" alt="Database technologies" />
+</p>
+
+**PostgreSQL · Supabase · Drizzle ORM · Neon**
+
+### AI / Intelligent Applications
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" alt="AI technologies" />
+</p>
+
+**LLM Integration · AI SDKs · Prompt Engineering · AI-powered Features · RAG Concepts · AI-assisted Development**
+
+> I’m actively learning how to build useful AI features into full-stack products rather than treating AI as a separate stack.
+
+### Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,render,bash,vscode" alt="Development tools" />
+</p>
+
+**Git · GitHub · Vercel · Render · Bash · VS Code**
+
+---
+
+## 🚀 Featured Projects
+
+### 🔥 Stack Forge
+
+**A developer-focused portfolio and workspace platform.**
+
+Stack Forge is designed to help developers manage their professional identity and showcase their work through a structured platform. The project combines a modern Next.js frontend with a NestJS backend and a PostgreSQL data layer.
+
+**Highlights**
+- Developer profile and portfolio management
+- GitHub repository integration
+- Projects, skills, notes, tasks, and events
+- Authentication and protected application flows
+- Structured REST API architecture
+- Modern dashboard/workspace experience
+
+**Core technologies:** Next.js · TypeScript · TanStack Query · NestJS · PostgreSQL · Supabase · Drizzle ORM · Better Auth
+
+- [Frontend Repository](https://github.com/ShawonMondol-Shibu/Stack_Forge)
+- [Backend Repository](https://github.com/ShawonMondol-Shibu/Stack_Forge-Backend)
+
+---
+
+### 🛍️ ShibuHub
+
+A full-stack shopping experience focused on product discovery, categories, authentication, and practical data-fetching patterns.
+
+**Built with:** Next.js · TypeScript · Tailwind CSS · shadcn/ui · TanStack Query · Better Auth · Drizzle ORM · NeonDB
+
+🔗 [Live Project](https://shibu-hub.vercel.app/)
+
+---
+
+### 💰 Visit Expense
+
+An expense-management project focused on building a practical application around structured data, backend APIs, and real-world CRUD workflows.
+
+- [Live Project](https://visit-expense.vercel.app/)
+- [Backend Repository](https://github.com/ShawonMondol-Shibu/Visit-Expense-Management-System)
+
+---
+
+### 🏠 Furniro Shop
+
+A modern e-commerce interface project focused on responsive UI, reusable components, and a polished shopping experience.
+
+🔗 [Live Project](https://furniro-shop-gamma.vercel.app/)
+
+---
+
+## 🤖 What I'm Exploring Now
+
+```text
+Full Stack Development
+        │
+        ├── TypeScript
+        ├── Next.js
+        ├── NestJS
+        ├── PostgreSQL
+        ├── System Design
+        │
+        └── AI Engineering
+              ├── LLM APIs
+              ├── AI SDKs
+              ├── RAG
+              ├── AI-powered UX
+              └── AI + Full Stack Applications
+```
+
+My current direction is **AI-enabled full-stack engineering**: building conventional web systems first, then integrating AI where it provides real product value.
+
+---
+
+## 📚 Currently Learning
+
+- Advanced TypeScript
+- NestJS architecture and backend patterns
+- PostgreSQL and database design
+- System design and scalable architectures
+- Authentication and authorization
+- AI application architecture
+- LLM APIs and structured AI workflows
+- RAG and retrieval-based applications
+- Better testing, observability, and production practices
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShawonMondol-Shibu&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShawonMondol-Shibu&layout=compact&hide_border=true" height="170" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ShawonMondol-Shibu&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 🎯 Career Focus
+
+I’m looking for opportunities where I can contribute as a **Junior Full Stack Developer / Software Engineer**, work on real production systems, and grow deeper into backend engineering and AI-powered applications.
+
+I’m especially interested in teams that value:
+
+- Strong engineering fundamentals
+- TypeScript and modern web development
+- Clean architecture and maintainable code
+- Practical product development
+- Learning through real-world engineering problems
+
+---
+
+## 🤝 Let's Connect
+
+If you’re interested in collaborating on a project, discussing software engineering, or building something useful together, feel free to reach out through GitHub.
+
+<p align="center">
+  <strong>Build. Learn. Ship. Improve. 🚀</strong>
+</p>
