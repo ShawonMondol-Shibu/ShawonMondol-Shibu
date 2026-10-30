@@ -2,11 +2,7 @@
 
 # Shawon Mondol Shibu
 
-**Full Stack Developer · TypeScript · Next.js · NestJS**
-
-Building modern web applications and exploring AI-powered products.
-
-<img src="https://raw.githubusercontent.com/ShawonMondol-Shibu/ShawonMondol-Shibu/main/assets/profile-3d.svg" alt="3D developer visual" width="760" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=900&color=F0F36B&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+AI+Engineer;Frontend+Developer;Backend+Developer;TypeScript+Developer" alt="Full-Stack AI Engineer | Frontend Developer | Backend Developer | TypeScript Developer" />
 
 </div>
 
