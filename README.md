@@ -1,6 +1,6 @@
 <div align="center">
 
-# Shawon Mondol Shibu
+# 👋 Hi! I am Shawon Mondol Shibu
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=900&color=F0F36B&center=true&vCenter=true&width=600&height=50&lines=Full-Stack+AI+Engineer;Frontend+Developer;Backend+Developer;TypeScript+Developer" alt="Full-Stack AI Engineer | Frontend Developer | Backend Developer | TypeScript Developer" />
 
