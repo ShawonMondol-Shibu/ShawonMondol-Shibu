@@ -37,8 +37,8 @@
 
 ## Tech
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,nestjs,postgresql,supabase,tailwind,git,github,vercel,vscode" alt="Technology icons" />
+<p align="left" width="100%">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,nestjs,elysia,express,postgresql,supabase,tailwind,git,github,vercel,vscode,postman," alt="Technology icons" />
 </p>
 
 ## ⚡ GitHub Stats
